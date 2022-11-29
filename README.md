@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Alaikum+Warahmatullah...%E2%9D%A4" alt="Typing SVG" /></a>
 </p>
 
-
 ## <picture><img src = "img/about_me.gif" width = 50px></picture>  **About me**
 
 <picture> <img align="right" src="img/Right_Side.gif" width = 250px></picture>
