@@ -63,8 +63,8 @@
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsan40&line_height=20&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan40&langs_count=8&show_icons=true&layout=compact&theme=gruvbox" width="375"  alt="Ahsan40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan40&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan40&line_height=20&langs_count=8&show_icons=true&layout=compact&theme=gruvbox" width="375"  alt="Ahsan40"/>
 </div>
 <br>
 
