@@ -21,7 +21,7 @@
 
 ## <img src="img/code.gif" width ="25"><b> Skills</b>
 
-<p align="center">
+<div align="center">
 
 | <p>Types</p>                | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 | <p>Software & Tools</p>     | <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=black" /> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=blac)" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=black" />                                                                                                                                                                                                                                                                                            |
 | <p>Others</p>               | <img src="https://img.shields.io/badge/Google%20Search-%234285F4.svg?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-%23241F31.svg?style=flat&logo=gnometerminal&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white" />                                              |
 
-</p>
+</div>
 <br>
 
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
