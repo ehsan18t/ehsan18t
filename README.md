@@ -18,7 +18,7 @@
 - Currently learning Web Development
 - _I’m currently open for an Intern or a remote job opportunity_ <!--, this is [my resume](https://read.cv)-->
 
-<br><br>
+<br>
 
 ## <img src="img/code.gif" width ="25"><b> Skills</b>
 
@@ -61,7 +61,7 @@
 
 
 </p>
-<br><br>
+<br>
 
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
 
@@ -69,7 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahsan40&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0D9488&text_color=D3D3D3&theme=transparent" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan40&show_icons=true&locale=en&layout=compact&line_height=20&title_color=0D9488&icon_color=2234AE&text_color=D3D3D3&theme=transparent" width="375"  alt="Ahsan40"/>
 </div>
-<br>
 <br>
 
 
