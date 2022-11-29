@@ -21,8 +21,6 @@
 <br><br>
 
 ## <img src="img/code.gif" width ="25"><b> Skills</b>
----
-<br>
 
 <p align="center">
 
@@ -94,8 +92,6 @@
 <br><br>
 
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
----
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsan40&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0D9488&text_color=D3D3D3&theme=transparent" width="450"/>
@@ -123,6 +119,5 @@
 <br>
 
 ---
-<br>
 
 Last Edited on: 29-Nov-2022
