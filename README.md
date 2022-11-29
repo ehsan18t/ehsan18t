@@ -23,53 +23,39 @@
 
 <p align="center">
 
-- **Programing Languages**
+![C](https://img.shields.io/badge/-C%20-%232370ED.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-F22F46.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP%20-777BB4?style=flat&logo=PHP&logoColor=black)
 
-    ![C](https://img.shields.io/badge/-C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-F22F46.svg?style=for-the-badge&logo=java&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![PHP](https://img.shields.io/badge/PHP%20-777BB4?style=for-the-badge&logo=PHP&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailWind CSS](https://img.shields.io/badge/TailWind%20CSS%20-%2306B6D6.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte%20-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
-- **Web Frameworks**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![TailWind CSS](https://img.shields.io/badge/TailWind%20CSS%20-%2306B6D6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-   ![Svelte](https://img.shields.io/badge/Svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-   ![Svelte](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-1B6AC6?style=flat&logo=intellijidea&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-FFFC00?style=flat&logo=pycharm&logoColor=black)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-A100FF?style=flat&logo=PhpStorm&logoColor=black)
 
-- **Version Control**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=black)
 
-    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=black)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=black)
 
-- **IDE**
-
-    ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-1B6AC6?style=for-the-badge&logo=intellijidea&logoColor=black)
-    ![PyCharm](https://img.shields.io/badge/PyCharm-FFFC00?style=for-the-badge&logo=pycharm&logoColor=black)
-    ![PhpStorm](https://img.shields.io/badge/PhpStorm-A100FF?style=for-the-badge&logo=PhpStorm&logoColor=black)
-
-- **Operating System**
-
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=black)
-
-- **Softwares and Tools**
-
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
-    ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=black)
-    ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=black)
-
-- **Others**
-
-    ![Google Search](https://img.shields.io/badge/Google%20Search-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23241F31.svg?style=for-the-badge&logo=gnometerminal&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-    ![Batch Scripting](https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Google Search](https://img.shields.io/badge/Google%20Search-%234285F4.svg?style=flat&logo=google&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%23241F31.svg?style=flat&logo=gnometerminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![Batch Scripting](https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white)
 
 </p>
 <br>
