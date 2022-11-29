@@ -100,7 +100,6 @@
 <br>
 <br>
 
-<img src="img/line.gif"><br><br>
 
 ## <img src="img/handshake.gif" width ="55"> <b> Contact Me</b>
 <br>
@@ -116,8 +115,6 @@
 </a>
 </div>
 <br>
-<br>
 
----
-
+<img src="img/line.gif">
 Last Edited on: 29-Nov-2022
