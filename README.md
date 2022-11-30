@@ -37,8 +37,8 @@
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsan18t&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="450"/>
-  <img src="https://streak-stats.demolab.com/?user=ehsan18t&theme=gruvbox" width="450"  alt="ehsan18t"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsan18t&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=ehsan18t&theme=gruvbox" width="400"  alt="ehsan18t"/>
 </div>
 <br>
 
