@@ -4,7 +4,7 @@
 <!-- <h1 align="left"><b>I'm Ehsan Khan </b><img src="img/wave.gif" width="35"></h1> -->
 
 
-## <picture><img src = "img/about_me.gif" width = 25px></picture> **I'm Ehsan Khan**
+# <picture><img src = "img/about_me.gif" width = 25px></picture> **I'm Ehsan Khan**
 
 <!-- <picture> <img align="right" src="img/Right_Side.gif" width = 250px></picture>
 <br> -->
