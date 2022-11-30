@@ -1,11 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Alaikum+Warahmatullah...%E2%9D%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Alaikum+Warahmatullah...%E2%9D%A4" alt="Typing SVG" />
 </p>
-<!-- <h1 align="left"><b>I'm Ehsan Khan </b><img src="img/wave.gif" width="35"></h1> -->
-
 
 # <picture><img src = "img/about_me.gif" width = 25px></picture> **I'm Ehsan Khan**
-
 <picture> <img align="right" src="img/Right_Side.gif" width = 150px></picture>
 
 - A passionate software developer
