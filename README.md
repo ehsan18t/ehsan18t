@@ -6,8 +6,8 @@
 
 # <picture><img src = "img/about_me.gif" width = 25px></picture> **I'm Ehsan Khan**
 
-<!-- <picture> <img align="right" src="img/Right_Side.gif" width = 250px></picture>
-<br> -->
+<picture> <img align="right" src="img/Right_Side.gif" width = 150px></picture>
+<br>
 
 - A passionate software developer
 - Competitive Programer
