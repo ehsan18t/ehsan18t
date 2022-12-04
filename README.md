@@ -12,7 +12,13 @@
 
 <br>
 
-## <img src="img/code.gif" width ="25"><b> Tech Stacks</b>
+
+
+
+<details>
+  <summary>
+  <h1><img src="img/code.gif" width ="25"><b> Tech Stacks</b></h1>
+</summary>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-C%20-%232370ED.svg?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java%20-F22F46.svg?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP%20-777BB4?style=flat&logo=PHP&logoColor=white" /> 
@@ -24,6 +30,7 @@
 <img src="https://img.shields.io/badge/Google%20Search-%234285F4.svg?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-%23241F31.svg?style=flat&logo=gnometerminal&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white" />
 
 </div>
+</details>
 <br>
 
 ## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
