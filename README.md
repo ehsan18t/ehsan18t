@@ -3,7 +3,7 @@
 </p>
 
 # <picture><img src = "img/about_me_small.gif" width = 25px></picture> **I'm Ehsan Khan**
-<picture> <img align="right" src="img/right_side_small.gif" width = 150px></picture>
+<picture> <img align="right" src="img/right_side_alt.gif" width = 150px></picture>
 
 - A passionate software developer
 - Competitive Programer
