@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/Google%20Search-%234285F4.svg?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-%23241F31.svg?style=flat&logo=gnometerminal&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Batch%20Scripting-%234D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white" />
 
 </div>
-</details>
 <br>
+</details>
 
 <details>
   <summary>
@@ -42,15 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan18t&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="400"/>
   <img src="https://streak-stats.demolab.com/?user=ehsan18t&theme=gruvbox" width="400"  alt="ehsan18t"/>
 </div>
-</details>
 <br>
+</details>
 
 <details>
   <summary>
   <h1> <img src="img/handshake.gif" width ="55"> <b> Contact Me</b></h1>
+<br>
 </summary>
 
-<br>
 <div align='center'>
   <a href="https://t.me/ehsan18t" target="_blank">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -65,8 +65,8 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </div>
-</details>
 <br>
+</details>
 
 <img src="img/line.gif">
 Last Edited on: 01-Dec-2022
