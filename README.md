@@ -33,15 +33,22 @@
 </details>
 <br>
 
-## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
+<details>
+  <summary>
+  <h1> <img src="img/Stats.gif" width="35"><b> Github Stats </b></h1>
+</summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan18t&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="400"/>
   <img src="https://streak-stats.demolab.com/?user=ehsan18t&theme=gruvbox" width="400"  alt="ehsan18t"/>
 </div>
+</details>
 <br>
 
-## <img src="img/handshake.gif" width ="55"> <b> Contact Me</b>
+<details>
+  <summary>
+  <h1> <img src="img/handshake.gif" width ="55"> <b> Contact Me</b></h1>
+</summary>
 
 <br>
 <div align='center'>
@@ -58,6 +65,7 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </div>
+</details>
 <br>
 
 <img src="img/line.gif">
