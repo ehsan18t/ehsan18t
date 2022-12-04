@@ -3,7 +3,7 @@
 </p>
 
 # <picture><img src = "img/about_me_small.gif" width = 25px></picture> **I'm Ehsan Khan**
-<picture> <img align="right" src="img/right_side_small.gif" width = 150px></picture>
+<picture> <img align="right" src="img/right_side_alt.gif" width = 150px></picture>
 
 - A passionate software developer
 - Competitive Programer
@@ -12,7 +12,13 @@
 
 <br>
 
-## <img src="img/code.gif" width ="25"><b> Tech Stacks</b>
+
+
+
+<details>
+  <summary>
+  <h1><img src="img/code.gif" width ="35"><b> Tech Stacks</b></h1>
+</summary>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-C%20-%232370ED.svg?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java%20-F22F46.svg?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP%20-777BB4?style=flat&logo=PHP&logoColor=white" /> 
@@ -25,18 +31,26 @@
 
 </div>
 <br>
+</details>
 
-## <img src="img/Stats.gif" width="35"><b> Github Stats </b>
+<details>
+  <summary>
+  <h1> <img src="img/Stats.gif" width="35"><b> Github Stats </b></h1>
+</summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan18t&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" width="400"/>
   <img src="https://streak-stats.demolab.com/?user=ehsan18t&theme=gruvbox" width="400"  alt="ehsan18t"/>
 </div>
 <br>
+</details>
 
-## <img src="img/handshake.gif" width ="55"> <b> Contact Me</b>
-
+<details>
+  <summary>
+  <h1> <img src="img/handshake.gif" width ="45"> <b> Contact Me</b></h1>
 <br>
+</summary>
+
 <div align='center'>
   <a href="https://t.me/ehsan18t" target="_blank">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -52,6 +66,7 @@
   </a>
 </div>
 <br>
+</details>
 
 <img src="img/line.gif">
-Last Edited on: 01-Dec-2022
+Last Edited on: 05-Dec-2022
