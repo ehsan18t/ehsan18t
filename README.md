@@ -7,7 +7,7 @@
 - A passionate software developer
 - Competitive Programer
 - Quick Lerner
-- _I’m currently open for an Intern or a remote job opportunity_ , this is [my resume](https://ehsan.pages.dev)
+- _I’m currently open for an Intern or a remote job opportunity_ , this is [my CV](https://www.overleaf.com/read/jfjsjggqjwnf)
 
 <br>
 
