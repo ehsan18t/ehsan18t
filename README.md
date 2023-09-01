@@ -34,10 +34,6 @@
     <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Github-121011.svg?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=black" />
     <img src="https://img.shields.io/badge/Google%20Search-4285F4.svg?style=flat&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/MKDocs-40AEF0.svg?style=flat&logo=readthedocs&logoColor=white" />
