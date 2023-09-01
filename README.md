@@ -67,9 +67,9 @@
     <a href="https://t.me/ehsan18t" target="_blank">
       <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" t=mail style="margin-bottom: 5px;" />
     </a>
-    <!-- <a href="https://twitter.com/ehsan18t" target="_blank">
-      <img src="https://img.shields.io/badge/twitter-00acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-    </a> -->
+    <a href="https://discord.com/users/xcarl3t" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+    </a>
     <a href="https://linkedin.com/in/ehsan18t" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-00acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
     </a>
