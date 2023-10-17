@@ -13,7 +13,7 @@
 
 <details>
   <summary>
-    <h1><img src="img/code.gif" width ="35"><b> Tech Stacks</b></h1>
+    <h1><picture><img src="img/code.gif" width ="35"></picture><b> Tech Stacks</b></h1>
   </summary>
 
   <div align="center">
@@ -47,7 +47,7 @@
 
 <details>
   <summary>
-    <h1> <img src="img/Stats.gif" width="35"><b> Github Stats </b></h1>
+    <h1> <picture><img src="img/Stats.gif" width="35"></picture><b> Github Stats </b></h1>
   </summary>
 
   <div align="center">
@@ -59,7 +59,7 @@
 
 <details>
   <summary>
-    <h1> <img src="img/handshake.gif" width ="45"> <b> Contact Me</b></h1>
+    <h1> <picture><img src="img/handshake.gif" width ="45"></picture> <b> Contact Me</b></h1>
     <br>
   </summary>
 
