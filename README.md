@@ -7,7 +7,6 @@
 - A passionate software developer
 - Competitive Programer
 - Quick Lerner
-- _I’m currently open for an Intern or a remote job opportunity_ , this is [my CV](https://www.overleaf.com/read/jfjsjggqjwnf)
 
 <br>
 
@@ -23,14 +22,16 @@
     <img src="https://img.shields.io/badge/Java%20-FF3E00?style=flat&logo=OpenJDK&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript%20-3178C6.svg?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP%20-777BB4?style=flat&logo=PHP&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML%20-E34F26.svg?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS%20-1572B6.svg?style=flat&logo=css3&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/PHP%20-777BB4?style=flat&logo=PHP&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/HTML%20-E34F26.svg?style=flat&logo=html5&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/CSS%20-1572B6.svg?style=flat&logo=css3&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/TailWind%20CSS%20-06B6D6.svg?style=flat&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Astro%20-F55B23.svg?style=flat&logo=astro&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20-09D3AC.svg?style=flat&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/NextJS%20-000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux%20-764ABC.svg?style=flat&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Django%20-092E20.svg?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tauri%20-24C8D8.svg?style=flat&logo=tauri&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Github-121011.svg?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
@@ -39,7 +40,7 @@
     <img src="https://img.shields.io/badge/MKDocs-40AEF0.svg?style=flat&logo=readthedocs&logoColor=white" />
     <img src="https://img.shields.io/badge/Latex-008080.svg?style=flat&logo=latex&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25.svg?style=flat&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Batch%20Scripting-4D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Batch%20Scripting-4D4D4D.svg?style=flat&logo=gnometerminal&logoColor=white" />
 
   </div>
   <br>
@@ -81,4 +82,5 @@
 </details>
 
 <img src="img/line.gif">
-Last Edited on: 01-Sep-2023
+Last Edited on: 29-Sep-2025
+
